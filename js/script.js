@@ -7,7 +7,7 @@ const snake = [{ x: 200, y: 200}]
 
 const drawSnake = () => {
     ctx.fillStyle = "#ddd"
-    ctx.fillRect(snake[0].x, snale[0].y, size, size)
+    ctx.fillRect(snake[0].x, snake[0].y, size, size)
 }
 
-drawSnale()
+drawSnake()
