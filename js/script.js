@@ -10,4 +10,4 @@ const drawSnake = () => {
     ctx.fillRect(snake[0].x, snake[0].y, size, size)
 }
 
-drawSnake()
+drawSnake()--
